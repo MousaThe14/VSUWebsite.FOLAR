@@ -1,0 +1,41 @@
+---
+title: "Overview"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### FOLAR
+Friends of Lower Appomattox River, or FOLAR, is a nonprofit organization actively working to preserve, protect, and enhance the Lower Appomattox River for all to enjoy.
+
+Collective Impact: <br>
+Developing a regional common agenda around creating and protecting the Appomattox River and Trail to positively impact public health, safety, and community prosperity.
+
+### Appomattox River Trail
+The Appomattox River Trail is a 25 mile long trail along the lower Appomattox River with access points connecting to boat access, parks, and other riverside trails. It encompasses the counties of Chesterfield, Dinwiddie and Prince George, and the cities of Colonial Heights, Hopewell and Petersburg.
+
+### Questions
+What will be the measurable positive impacts of completing the Appomattox River Trail (Blueway and Greenway) for the Petersburg and surrounding region?
+
+What policies and/or systems changes can help facilitate achieving and maintaining the beneficial impacts?
+
+### Goals
+
+### Issues
+
+### Conclusion
+
+
+```{r}
+
+```
+
+
+
+```{r}
+
+```
+
+
