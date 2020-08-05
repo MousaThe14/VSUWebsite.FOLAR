@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/" 
 languageCode = "en-us"
 title = "UVA Biocomplexity Institute"
 description = "A website for Virignia State University's 2020 Data Science for the Public Good Program."
