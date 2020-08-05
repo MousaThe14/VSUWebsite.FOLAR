@@ -19,8 +19,11 @@
   </url>
   
   <url>
+    <loc>/overview/</loc>
+  </url>
+  
+  <url>
     <loc>/team/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -29,18 +32,6 @@
   
   <url>
     <loc>/findings/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/geospatial/</loc>
-  </url>
-  
-  <url>
-    <loc>/overview/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
   </url>
   
   <url>

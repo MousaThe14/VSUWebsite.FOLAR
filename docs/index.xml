@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Background</title>
+      <title></title>
       <link>/data-methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -30,7 +30,7 @@ Variables[Race][Age][Poverty][income][Education Levels][crime data][jobs/
     </item>
     
     <item>
-      <title>Health and Wellbeing</title>
+      <title>Health</title>
       <link>/findings/health/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -55,15 +55,6 @@ Variables[Race][Age][Poverty][income][Education Levels][crime data][jobs/
     
     <item>
       <title></title>
-      <link>/team/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/team/</guid>
-      <description>UVA Data Science for the Public Good Program The Data Science for the Public Good (DSPG) Young Scholars program is a summer immersive program held at the Biocomplexity Institute’s Social and Decision Analytics division (SDAD). In its seventh year, the program engages students from across the country to work together on projects that address state, federal, and local government challenges around critical social issues relevant in the world today. DSPG young scholars conduct research at the intersection of statistics, computation, and the social sciences to determine how information generated within every community can be leveraged to improve quality of life and inform public policy.</description>
-    </item>
-    
-    <item>
-      <title>Overview</title>
       <link>/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -71,6 +62,15 @@ Variables[Race][Age][Poverty][income][Education Levels][crime data][jobs/
       <description>FOLARFriends of Lower Appomattox River, or FOLAR, is a nonprofit organization actively working to preserve, protect, and enhance the Lower Appomattox River for all to enjoy.
 Collective Impact: Developing a regional common agenda around creating and protecting the Appomattox River and Trail to positively impact public health, safety, and community prosperity.
 Appomattox River TrailThe Appomattox River Trail is a 25 mile long trail along the lower Appomattox River with access points connecting to boat access, parks, and other riverside trails.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/</guid>
+      <description>UVA Data Science for the Public Good ProgramThe Data Science for the Public Good (DSPG) Young Scholars program is a summer immersive program held at the Biocomplexity Institute’s Social and Decision Analytics division (SDAD). In its seventh year, the program engages students from across the country to work together on projects that address state, federal, and local government challenges around critical social issues relevant in the world today. DSPG young scholars conduct research at the intersection of statistics, computation, and the social sciences to determine how information generated within every community can be leveraged to improve quality of life and inform public policy.</description>
     </item>
     
   </channel>
