@@ -1,23 +1,21 @@
 ---
 title: "Transportation"
 description: "How does transportation affect a person's access to trails?"
-tags: ["R"]
 weight: 4
 draft: false
 output: html_document
 ---
 
-
 ### Main Finding 
 local commuting score
 <br>
-### Driving
+#### Driving
 <br>
-### Public Transit
+#### Public Transit
 <br>
-### Biking
+#### Biking
 <br>
-## Walking
+#### Walking
 [walkability score]
 
 
