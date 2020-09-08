@@ -1,9 +1,6 @@
 ---
-title: "Background"
-description: Demographic Description of Petersburg, VA
-tags:
-- R
-- geospatial
+#title: "Background"
+#description: Demographic Description of Petersburg, VA
 output:
   html_document: default
 draft: no

@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/" 
 languageCode = "en-us"
 title = "UVA Biocomplexity Institute"
 description = "A website for Virignia State University's 2020 Data Science for the Public Good Program."
@@ -6,7 +6,7 @@ theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
-publishDir = "docs"
+#publishDir = "docs"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -52,7 +52,7 @@ publishDir = "docs"
 [[menu.main]]
     url = "/Powerpoint/"
     name = "Powerpoint"
-    weight = 5
+    weight = 6
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
