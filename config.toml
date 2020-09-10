@@ -47,12 +47,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [[menu.main]]
     url = "/team/"
     name = "Team"
-    weight = 5
+    weight = 6
     
 [[menu.main]]
-    url = "/Powerpoint/"
+    url = "/pdf/FOLAR_final.pdf"
     name = "Powerpoint"
-    weight = 6
+    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
