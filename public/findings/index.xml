@@ -1,47 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Findings on UVA Biocomplexity Institute</title>
-    <link>/findings/</link>
-    <description>Recent content in Findings on UVA Biocomplexity Institute</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/findings/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Economics</title>
-      <link>/findings/economics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/economics/</guid>
-      <description>/* this chunnk of code centers all of the headings */h1, h2, h3 {text-align: center;}</description>
-    </item>
-    
-    <item>
-      <title>Health</title>
-      <link>/findings/health/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/health/</guid>
-      <description>Main Findings[Here you will describe the results and include important visualizations from your project.]
-Conclusion and Policy Implications[Here you could highlight the main takeaways and the potential policy implications of your findings.]
-References[List your references here using APA format (or at least standardize all of the references using the same format).]
-</description>
-    </item>
-    
-    <item>
-      <title>Transportation</title>
-      <link>/findings/transportation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/findings/transportation/</guid>
-      <description>Main Findinglocal commuting score#### Driving#### Public Transit#### Biking#### Walking[walkability score]
-Conclusion and Policy Implications[Here you could highlight the main takeaways and the potential policy implications of your findings.]
-References[List your references here using APA format (or at least standardize all of the references using the same format).]
-</description>
-    </item>
-    
-  </channel>
-</rss>
